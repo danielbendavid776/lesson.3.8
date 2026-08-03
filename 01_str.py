@@ -44,3 +44,4 @@ print('hello paython'[0]) #h
 print('hello paython'[-1]) #n
 print('hello paython'[0:5]) #hello
 print('hello paython'[:5]) #hello כלום לפני הנקודותיים זה כמו 0
+print('hello paython'[0:5:2]) #מאיבר 0 עד 5 בקפיצות של 2
