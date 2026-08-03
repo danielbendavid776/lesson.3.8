@@ -38,6 +38,7 @@ print(name.isalpha()) #true
 # isdigit checks if the str is only numbers
 print(sentence.isdigit()) #false
 
+#
 print('hello paython')
 print('hello paython'[0]) #h
 print('hello paython'[-1]) #n
