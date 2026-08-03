@@ -37,3 +37,9 @@ print(name.isalpha()) #true
 
 # isdigit checks if the str is only numbers
 print(sentence.isdigit()) #false
+
+print('hello paython')
+print('hello paython'[0]) #h
+print('hello paython'[-1]) #n
+print('hello paython'[0:5]) #hello
+print('hello paython'[:5]) #hello כלום לפני הנקודותיים זה כמו 0
